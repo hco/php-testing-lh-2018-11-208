@@ -1,0 +1,21 @@
+Assertion
+ [ ] Assertions
+
+Calculator
+ [x] Hello world
+ [x] Two plus two is four
+ [x] Two plus three is five
+ [x] That division by zero raises an exception
+ [x] Four divided by two is two
+ [x] Six divided by two is three
+ [x] Five divided by two is two and a half
+ [x] Ten divided by three is three point three
+
+Greeter
+ [x] Greet with other name
+ [x] Greet with spaces
+ [x] Greet with lower case name
+ [x] Greet with good morning
+ [x] Greet with good evening
+ [x] Greet with good night
+
